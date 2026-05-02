@@ -180,8 +180,6 @@ This project was developed as a **university group project**. Meet the team: ***
       <br/>
       <b>Md. Razab Ali</b>
       <br/>
-      <sub>CSE Student</sub>
-      <br/>
       <br/>
       <a href="https://github.com/RZBv2">
         <img src="https://img.shields.io/badge/GitHub-RZBv2-181717?style=flat-square&logo=github" />
@@ -197,8 +195,6 @@ This project was developed as a **university group project**. Meet the team: ***
       </a>
       <br/>
       <b>Md. Pranto</b>
-      <br/>
-      <sub>CSE Student</sub>
       <br/>
       <br/>
       <a href="https://github.com/zerotwo5">
