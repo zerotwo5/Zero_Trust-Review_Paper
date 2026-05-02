@@ -1,0 +1,19 @@
+References 
+
+1. NIST. (2020). Zero Trust Architecture (NIST SP 800-207). 
+   https://nvlpubs.nist.gov/nistpubs/specialpublications/NIST.SP.800-207.pdf 
+
+2. CISA. (2023). Zero Trust Maturity Model Version 2.0. 
+   https://www.cisa.gov/sites/default/files/2023-04/CISA_Zero_Trust_Maturity_Model_Version_2_508c.pdf 
+
+3. DoD. (2022). Department of Defense Zero Trust Reference Architecture. 
+   https://dodcio.defense.gov/Portals/0/Documents/Library/(U)ZT_RA_v2.0(U)_Sep22.pdf 
+
+4. IEEE. (2025). Zero Trust Architecture: Evaluating its Impact on Modern Information Security. 
+   https://ieeexplore.ieee.org/abstract/document/11337489/ 
+
+5.  SAGE. (2025). A comprehensive review and comparative analysis of zero trust architecture. 
+    https://journals.sagepub.com/doi/abs/10.1177/0926227X251409922 
+
+6.  Springer. (2026). Review of zero-click attacks and zero-trust security model. 
+    https://link.springer.com/article/10.1007/s44354-026-00023-4 
