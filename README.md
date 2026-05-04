@@ -27,7 +27,7 @@ The paper synthesizes and critically analyzes findings from multiple authoritati
 
 This work was submitted as a **university group project**, aimed at evaluating how Zero Trust models can address the evolving landscape of cybersecurity threats in enterprise, cloud, and hybrid environments.
 
-📄 **[View the Full Paper (PDF)](./Zero%20Trust%20Architecture%20Review%20Paper%203.1.pdf)**
+📄 **[View the Full Paper (PDF)](./Zero%20Trust%20Architecture%20Review%20Paper(Final).pdf)**
 
 ---
 
